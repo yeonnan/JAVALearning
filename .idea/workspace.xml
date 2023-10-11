@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bda66e0-9141-4357-99b6-295fd67e4e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_26/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_26/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_26/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_26/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_27/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_27/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_27/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_27/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_28/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_28/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_28/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_32/fish/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/chapter_32/fish/FishChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/studyJAVA/HelloWorld/src/exercise/chapter_32/fish&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/Desktop/studyJAVA/HelloWorld/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/USER/Desktop/studyJAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/USER/Desktop/studyJAVA/HelloWorld/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\studyJAVA\HelloWorld\src\exercise\chapter_32\fish" />
@@ -172,6 +153,10 @@
       <workItem from="1696878581775" duration="3880000" />
       <workItem from="1696892933552" duration="19664000" />
       <workItem from="1696975897986" duration="4105000" />
+      <workItem from="1696987410659" duration="599000" />
+      <workItem from="1696988929546" duration="299000" />
+      <workItem from="1696989323122" duration="34000" />
+      <workItem from="1696989365315" duration="21000" />
     </task>
     <servers />
   </component>
