@@ -1,4 +1,6 @@
-package exercise.chapter_34;
+package exercise.chapter_43;
+
+import exercise.chapter_41.Customer;
 
 public class Staff {
     //속성
@@ -23,5 +25,12 @@ public class Staff {
 
     public void setSalesAmount(int salesAmount) {
         this.salesAmount = salesAmount;
+    }
+
+    @Override
+    public String toString() {
+        return "Staff{" +
+                "salesAmount=" + salesAmount +
+                '}';
     }
 }

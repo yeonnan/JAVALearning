@@ -1,7 +1,11 @@
-package exercise.chapter_34;
+package exercise.chapter_40;
 
-public class VIPCustomer extends Customer{
+public class VIPCustomer extends Customer {
     static int serialNums = 1;
+
+    static {
+        System.out.println("VIP 클래스가 로딩됩니다 ");
+    }
 
     //속성
     private String agentID; //vip 담당 직원 ID

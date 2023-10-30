@@ -1,7 +1,8 @@
-package exercise.chapter_34;
+package exercise.chapter_41;
 
-public class VIPCustomer extends Customer{
+public class VIPCustomer extends Customer {
     static int serialNums = 1;
+
 
     //속성
     private String agentID; //vip 담당 직원 ID

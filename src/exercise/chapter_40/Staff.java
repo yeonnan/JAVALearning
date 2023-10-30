@@ -1,4 +1,4 @@
-package exercise.chapter_34;
+package exercise.chapter_40;
 
 public class Staff {
     //속성

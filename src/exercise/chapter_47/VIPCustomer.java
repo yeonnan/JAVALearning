@@ -1,7 +1,10 @@
-package exercise.chapter_34;
+package exercise.chapter_47;
 
-public class VIPCustomer extends Customer{
+import java.util.Objects;
+
+public class VIPCustomer extends Customer {
     static int serialNums = 1;
+
 
     //속성
     private String agentID; //vip 담당 직원 ID
@@ -38,5 +41,21 @@ public class VIPCustomer extends Customer{
         System.out.print("VIP");
         super.printMyInfo();
          }
+
+    @Override
+    public String toString() {
+        return "VIPCustomer{" +
+                "agentID='" + agentID + '\'' +
+                ", customerID='" + customerID + '\'' +
+                ", name='" + name + '\'' +
+                ", customerGrade='" + customerGrade + '\'' +
+                ", bonusPoint=" + bonusPoint +
+                '}';
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(this.customerID);
+    }
 }
 
